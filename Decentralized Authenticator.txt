@@ -1,0 +1,3 @@
+Decentralized Authenticator'
+
+enter event into network -> network validates it according ot a threshold -> receive email notification that event is now validated
